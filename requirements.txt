@@ -1,6 +1,13 @@
-torchaudio
+datasets
 loguru
+matplotlib
+numpy
+scipy
+sentencepiece
+torch
+torchaudio
 torchmetrics
 torchcodec
 soundfile
-sentencepiece
+typer
+tqdm
