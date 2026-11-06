@@ -1,0 +1,6 @@
+torchaudio
+loguru
+torchmetrics
+torchcodec
+soundfile
+sentencepiece
